@@ -1,0 +1,29 @@
+[2023-10-02 19:57:05.371] [info] Kempe type: Projective
+[2023-10-02 19:57:05.462] [info] Vertex size: 32, Edge size: 55, Ring size: 14
+[2023-10-02 19:57:08.267] [info] Started D-reducibility check
+[2023-10-02 19:57:08.267] [info] #1: Feasible / Total: 22229 / 199291
+[2023-10-02 19:59:17.558] [info] #2: Feasible / Total: 32034 / 199291
+[2023-10-02 19:59:33.906] [info] #3: Feasible / Total: 36335 / 199291
+[2023-10-02 19:59:46.390] [info] #4: Feasible / Total: 39774 / 199291
+[2023-10-02 19:59:56.273] [info] #5: Feasible / Total: 42805 / 199291
+[2023-10-02 20:00:05.873] [info] #6: Feasible / Total: 46093 / 199291
+[2023-10-02 20:00:17.702] [info] #7: Feasible / Total: 49441 / 199291
+[2023-10-02 20:00:38.449] [info] #8: Feasible / Total: 53347 / 199291
+[2023-10-02 20:00:55.981] [info] #9: Feasible / Total: 57777 / 199291
+[2023-10-02 20:01:10.854] [info] #10: Feasible / Total: 62924 / 199291
+[2023-10-02 20:01:27.309] [info] #11: Feasible / Total: 69686 / 199291
+[2023-10-02 20:01:50.905] [info] #12: Feasible / Total: 78242 / 199291
+[2023-10-02 20:02:19.620] [info] #13: Feasible / Total: 92409 / 199291
+[2023-10-02 20:02:52.003] [info] #14: Feasible / Total: 114670 / 199291
+[2023-10-02 20:03:03.800] [info] #15: Feasible / Total: 131369 / 199291
+[2023-10-02 20:03:05.703] [info] #16: Feasible / Total: 133354 / 199291
+[2023-10-02 20:03:06.637] [info] #17: Feasible / Total: 133358 / 199291
+[2023-10-02 20:03:07.602] [info] #17: Feasible / Total: 133358 / 199291
+[2023-10-02 20:03:07.602] [info] Graph is not D-reducible.
+[2023-10-02 20:03:07.656] [info] Started C-reducibility check
+[2023-10-02 20:03:55.199] [info] Trying 1463176 possible contractions
+[2023-10-02 20:03:55.199] [info] [0/1463176] Starting contraction of size 1
+[2023-10-02 20:04:12.336] [info] [41/1463176] Starting contraction of size 2
+[2023-10-02 20:08:44.079] [info] [793/1463176] Starting contraction of size 3
+[2023-10-02 20:14:39.359] [info] All colors passed! Contracted: 31, 33, 46
+[2023-10-02 20:14:39.359] [info] Graph is C-reducible!

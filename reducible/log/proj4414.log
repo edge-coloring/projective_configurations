@@ -1,0 +1,52 @@
+[2023-10-05 16:00:51.689] [info] Kempe type: Projective
+[2023-10-05 16:00:51.689] [info] Vertex size: 38, Edge size: 65, Ring size: 16
+[2023-10-05 16:00:58.542] [info] Started D-reducibility check
+[2023-10-05 16:00:58.542] [info] #1: Feasible / Total: 141559 / 1793614
+[2023-10-05 16:27:23.363] [info] #2: Feasible / Total: 174746 / 1793614
+[2023-10-05 16:35:23.651] [info] #3: Feasible / Total: 189722 / 1793614
+[2023-10-05 16:40:57.345] [info] #4: Feasible / Total: 200089 / 1793614
+[2023-10-05 16:45:15.098] [info] #5: Feasible / Total: 208205 / 1793614
+[2023-10-05 16:48:54.401] [info] #6: Feasible / Total: 214975 / 1793614
+[2023-10-05 16:52:23.431] [info] #7: Feasible / Total: 221250 / 1793614
+[2023-10-05 16:55:51.633] [info] #8: Feasible / Total: 227029 / 1793614
+[2023-10-05 16:59:00.126] [info] #9: Feasible / Total: 232568 / 1793614
+[2023-10-05 17:02:32.092] [info] #10: Feasible / Total: 238012 / 1793614
+[2023-10-05 17:05:29.034] [info] #11: Feasible / Total: 243501 / 1793614
+[2023-10-05 17:08:31.558] [info] #12: Feasible / Total: 249116 / 1793614
+[2023-10-05 17:11:34.833] [info] #13: Feasible / Total: 255601 / 1793614
+[2023-10-05 17:15:17.199] [info] #14: Feasible / Total: 262988 / 1793614
+[2023-10-05 17:19:19.666] [info] #15: Feasible / Total: 271238 / 1793614
+[2023-10-05 17:23:01.787] [info] #16: Feasible / Total: 279975 / 1793614
+[2023-10-05 17:27:07.804] [info] #17: Feasible / Total: 289180 / 1793614
+[2023-10-05 17:31:16.704] [info] #18: Feasible / Total: 298893 / 1793614
+[2023-10-05 17:35:51.143] [info] #19: Feasible / Total: 309287 / 1793614
+[2023-10-05 17:40:13.817] [info] #20: Feasible / Total: 320130 / 1793614
+[2023-10-05 17:44:00.863] [info] #21: Feasible / Total: 331093 / 1793614
+[2023-10-05 17:48:14.024] [info] #22: Feasible / Total: 343241 / 1793614
+[2023-10-05 17:52:47.851] [info] #23: Feasible / Total: 358583 / 1793614
+[2023-10-05 17:58:25.326] [info] #24: Feasible / Total: 376880 / 1793614
+[2023-10-05 18:04:36.376] [info] #25: Feasible / Total: 397849 / 1793614
+[2023-10-05 18:11:04.893] [info] #26: Feasible / Total: 422117 / 1793614
+[2023-10-05 18:18:47.018] [info] #27: Feasible / Total: 451820 / 1793614
+[2023-10-05 18:27:04.684] [info] #28: Feasible / Total: 489652 / 1793614
+[2023-10-05 18:37:45.660] [info] #29: Feasible / Total: 538364 / 1793614
+[2023-10-05 18:50:38.692] [info] #30: Feasible / Total: 600825 / 1793614
+[2023-10-05 19:05:43.660] [info] #31: Feasible / Total: 677964 / 1793614
+[2023-10-05 19:21:18.922] [info] #32: Feasible / Total: 761784 / 1793614
+[2023-10-05 19:36:36.420] [info] #33: Feasible / Total: 850787 / 1793614
+[2023-10-05 19:51:49.703] [info] #34: Feasible / Total: 948800 / 1793614
+[2023-10-05 20:06:29.953] [info] #35: Feasible / Total: 1056922 / 1793614
+[2023-10-05 20:18:57.728] [info] #36: Feasible / Total: 1143984 / 1793614
+[2023-10-05 20:30:42.830] [info] #37: Feasible / Total: 1235851 / 1793614
+[2023-10-05 20:36:36.860] [info] #38: Feasible / Total: 1301026 / 1793614
+[2023-10-05 20:37:27.021] [info] #39: Feasible / Total: 1303162 / 1793614
+[2023-10-05 20:37:39.804] [info] #39: Feasible / Total: 1303162 / 1793614
+[2023-10-05 20:37:39.804] [info] Graph is not D-reducible.
+[2023-10-05 20:37:40.299] [info] Started C-reducibility check
+[2023-10-05 21:02:05.607] [info] Trying 70187615 possible contractions
+[2023-10-05 21:02:05.608] [info] [0/70187615] Starting contraction of size 1
+[2023-10-05 21:06:14.790] [info] [49/70187615] Starting contraction of size 2
+[2023-10-05 22:23:01.219] [info] [1143/70187615] Starting contraction of size 3
+[2023-10-06 13:00:45.058] [info] [15917/70187615] Starting contraction of size 4
+[2023-10-08 07:21:40.213] [info] All colors passed! Contracted: 20, 41, 54, 58
+[2023-10-08 07:21:40.213] [info] Graph is C-reducible!

@@ -1,0 +1,17 @@
+[2023-10-17 12:56:36.861] [info] Kempe type: Projective
+[2023-10-17 12:56:36.861] [info] Vertex size: 34, Edge size: 58, Ring size: 14
+[2023-10-17 12:56:40.410] [info] Started D-reducibility check
+[2023-10-17 12:56:40.434] [info] #1: Feasible / Total: 25033 / 199291
+[2023-10-17 12:58:55.097] [info] #2: Feasible / Total: 41723 / 199291
+[2023-10-17 13:00:17.168] [info] #3: Feasible / Total: 64075 / 199291
+[2023-10-17 13:02:03.331] [info] #4: Feasible / Total: 108452 / 199291
+[2023-10-17 13:02:56.657] [info] #5: Feasible / Total: 174779 / 199291
+[2023-10-17 13:03:07.979] [info] #6: Feasible / Total: 193138 / 199291
+[2023-10-17 13:03:08.140] [info] #7: Feasible / Total: 193147 / 199291
+[2023-10-17 13:03:08.262] [info] #7: Feasible / Total: 193147 / 199291
+[2023-10-17 13:03:08.262] [info] Graph is not D-reducible.
+[2023-10-17 13:03:08.315] [info] Started C-reducibility check
+[2023-10-17 13:06:24.327] [info] Trying 22311470 possible contractions
+[2023-10-17 13:06:24.327] [info] [0/22311470] Starting contraction of size 1
+[2023-10-17 13:06:24.917] [info] All colors passed! Contracted: 42
+[2023-10-17 13:06:24.918] [info] Graph is C-reducible!

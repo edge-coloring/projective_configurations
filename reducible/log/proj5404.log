@@ -1,0 +1,29 @@
+[2023-10-04 21:56:06.796] [info] Kempe type: Projective
+[2023-10-04 21:56:06.814] [info] Vertex size: 32, Edge size: 55, Ring size: 14
+[2023-10-04 21:56:08.996] [info] Started D-reducibility check
+[2023-10-04 21:56:09.002] [info] #1: Feasible / Total: 20055 / 199291
+[2023-10-04 21:57:09.226] [info] #2: Feasible / Total: 30019 / 199291
+[2023-10-04 21:57:30.301] [info] #3: Feasible / Total: 36103 / 199291
+[2023-10-04 21:57:44.109] [info] #4: Feasible / Total: 40576 / 199291
+[2023-10-04 21:57:53.965] [info] #5: Feasible / Total: 44274 / 199291
+[2023-10-04 21:58:04.291] [info] #6: Feasible / Total: 47756 / 199291
+[2023-10-04 21:58:13.067] [info] #7: Feasible / Total: 51245 / 199291
+[2023-10-04 21:58:24.983] [info] #8: Feasible / Total: 54818 / 199291
+[2023-10-04 21:58:37.873] [info] #9: Feasible / Total: 58438 / 199291
+[2023-10-04 21:58:49.402] [info] #10: Feasible / Total: 62633 / 199291
+[2023-10-04 21:59:04.302] [info] #11: Feasible / Total: 68408 / 199291
+[2023-10-04 21:59:19.142] [info] #12: Feasible / Total: 75961 / 199291
+[2023-10-04 21:59:42.001] [info] #13: Feasible / Total: 85702 / 199291
+[2023-10-04 22:00:07.278] [info] #14: Feasible / Total: 98378 / 199291
+[2023-10-04 22:00:26.238] [info] #15: Feasible / Total: 114633 / 199291
+[2023-10-04 22:00:33.341] [info] #16: Feasible / Total: 125359 / 199291
+[2023-10-04 22:00:36.142] [info] #17: Feasible / Total: 126871 / 199291
+[2023-10-04 22:00:37.651] [info] #18: Feasible / Total: 127233 / 199291
+[2023-10-04 22:00:39.238] [info] #19: Feasible / Total: 127280 / 199291
+[2023-10-04 22:00:40.292] [info] #19: Feasible / Total: 127280 / 199291
+[2023-10-04 22:00:40.306] [info] Graph is not D-reducible.
+[2023-10-04 22:00:40.343] [info] Started C-reducibility check
+[2023-10-04 22:01:42.168] [info] Trying 21217797 possible contractions
+[2023-10-04 22:01:42.174] [info] [0/21217797] Starting contraction of size 1
+[2023-10-04 22:01:43.727] [info] All colors passed! Contracted: 48
+[2023-10-04 22:01:43.734] [info] Graph is C-reducible!

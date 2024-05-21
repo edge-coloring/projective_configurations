@@ -1,0 +1,8 @@
+[2023-10-01 00:58:46.500] [info] Kempe type: Projective
+[2023-10-01 00:58:46.500] [info] Vertex size: 41, Edge size: 69, Ring size: 15
+[2023-10-01 00:58:55.171] [info] Started D-reducibility check
+[2023-10-01 00:58:55.171] [info] #1: Feasible / Total: 100448 / 597871
+[2023-10-01 01:21:03.810] [info] #2: Feasible / Total: 264200 / 597871
+[2023-10-01 01:28:35.453] [info] #3: Feasible / Total: 555221 / 597871
+[2023-10-01 01:28:52.216] [info] #4: Feasible / Total: 597871 / 597871
+[2023-10-01 01:28:52.216] [info] Graph is D-reducible!

@@ -1,0 +1,29 @@
+[2023-10-01 00:58:46.299] [info] Kempe type: Projective
+[2023-10-01 00:58:46.299] [info] Vertex size: 35, Edge size: 60, Ring size: 15
+[2023-10-01 00:58:51.228] [info] Started D-reducibility check
+[2023-10-01 00:58:51.228] [info] #1: Feasible / Total: 56395 / 597871
+[2023-10-01 01:06:23.931] [info] #2: Feasible / Total: 83935 / 597871
+[2023-10-01 01:09:19.853] [info] #3: Feasible / Total: 100038 / 597871
+[2023-10-01 01:11:27.862] [info] #4: Feasible / Total: 112539 / 597871
+[2023-10-01 01:12:53.716] [info] #5: Feasible / Total: 126722 / 597871
+[2023-10-01 01:14:31.378] [info] #6: Feasible / Total: 142802 / 597871
+[2023-10-01 01:16:18.580] [info] #7: Feasible / Total: 162097 / 597871
+[2023-10-01 01:18:13.300] [info] #8: Feasible / Total: 184444 / 597871
+[2023-10-01 01:20:32.305] [info] #9: Feasible / Total: 209083 / 597871
+[2023-10-01 01:22:38.138] [info] #10: Feasible / Total: 238371 / 597871
+[2023-10-01 01:25:12.882] [info] #11: Feasible / Total: 275878 / 597871
+[2023-10-01 01:27:44.169] [info] #12: Feasible / Total: 318852 / 597871
+[2023-10-01 01:30:13.345] [info] #13: Feasible / Total: 368885 / 597871
+[2023-10-01 01:31:36.148] [info] #14: Feasible / Total: 405394 / 597871
+[2023-10-01 01:31:52.117] [info] #15: Feasible / Total: 412164 / 597871
+[2023-10-01 01:31:56.612] [info] #16: Feasible / Total: 412381 / 597871
+[2023-10-01 01:32:00.930] [info] #17: Feasible / Total: 412383 / 597871
+[2023-10-01 01:32:03.831] [info] #17: Feasible / Total: 412383 / 597871
+[2023-10-01 01:32:03.831] [info] Graph is not D-reducible.
+[2023-10-01 01:32:04.023] [info] Started C-reducibility check
+[2023-10-01 01:37:03.890] [info] Trying 2912754 possible contractions
+[2023-10-01 01:37:03.902] [info] [0/2912754] Starting contraction of size 1
+[2023-10-01 01:37:58.719] [info] [45/2912754] Starting contraction of size 2
+[2023-10-01 01:52:51.986] [info] [960/2912754] Starting contraction of size 3
+[2023-10-01 02:43:35.408] [info] All colors passed! Contracted: 33, 55, 59
+[2023-10-01 02:43:35.408] [info] Graph is C-reducible!

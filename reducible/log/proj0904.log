@@ -1,0 +1,37 @@
+[2023-09-30 16:50:13.022] [info] Kempe type: Projective
+[2023-09-30 16:50:13.022] [info] Vertex size: 29, Edge size: 50, Ring size: 13
+[2023-09-30 16:50:13.652] [info] Started D-reducibility check
+[2023-09-30 16:50:13.652] [info] #1: Feasible / Total: 8867 / 66430
+[2023-09-30 16:50:23.165] [info] #2: Feasible / Total: 12425 / 66430
+[2023-09-30 16:50:26.755] [info] #3: Feasible / Total: 13622 / 66430
+[2023-09-30 16:50:28.238] [info] #4: Feasible / Total: 14435 / 66430
+[2023-09-30 16:50:29.190] [info] #5: Feasible / Total: 15035 / 66430
+[2023-09-30 16:50:30.655] [info] #6: Feasible / Total: 15564 / 66430
+[2023-09-30 16:50:32.095] [info] #7: Feasible / Total: 16038 / 66430
+[2023-09-30 16:50:33.367] [info] #8: Feasible / Total: 16448 / 66430
+[2023-09-30 16:50:34.845] [info] #9: Feasible / Total: 16961 / 66430
+[2023-09-30 16:50:36.514] [info] #10: Feasible / Total: 17518 / 66430
+[2023-09-30 16:50:38.406] [info] #11: Feasible / Total: 18222 / 66430
+[2023-09-30 16:50:40.798] [info] #12: Feasible / Total: 19244 / 66430
+[2023-09-30 16:50:43.807] [info] #13: Feasible / Total: 20581 / 66430
+[2023-09-30 16:50:46.648] [info] #14: Feasible / Total: 22485 / 66430
+[2023-09-30 16:50:50.027] [info] #15: Feasible / Total: 25210 / 66430
+[2023-09-30 16:50:53.201] [info] #16: Feasible / Total: 28173 / 66430
+[2023-09-30 16:50:56.819] [info] #17: Feasible / Total: 31163 / 66430
+[2023-09-30 16:50:59.794] [info] #18: Feasible / Total: 33475 / 66430
+[2023-09-30 16:51:01.092] [info] #19: Feasible / Total: 34285 / 66430
+[2023-09-30 16:51:01.799] [info] #20: Feasible / Total: 34516 / 66430
+[2023-09-30 16:51:02.392] [info] #21: Feasible / Total: 34755 / 66430
+[2023-09-30 16:51:02.932] [info] #22: Feasible / Total: 34928 / 66430
+[2023-09-30 16:51:03.410] [info] #23: Feasible / Total: 35012 / 66430
+[2023-09-30 16:51:03.854] [info] #24: Feasible / Total: 35015 / 66430
+[2023-09-30 16:51:04.285] [info] #24: Feasible / Total: 35015 / 66430
+[2023-09-30 16:51:04.285] [info] Graph is not D-reducible.
+[2023-09-30 16:51:04.308] [info] Started C-reducibility check
+[2023-09-30 16:51:15.053] [info] Trying 678781 possible contractions
+[2023-09-30 16:51:15.053] [info] [0/678781] Starting contraction of size 1
+[2023-09-30 16:51:18.628] [info] [37/678781] Starting contraction of size 2
+[2023-09-30 16:52:09.038] [info] [642/678781] Starting contraction of size 3
+[2023-09-30 16:58:33.102] [info] [6426/678781] Starting contraction of size 4
+[2023-09-30 17:25:30.211] [info] All colors passed! Contracted: 16, 31, 46, 47
+[2023-09-30 17:25:30.211] [info] Graph is C-reducible!

@@ -1,0 +1,18 @@
+# ignore all
+*
+!*/
+
+# allow list
+!.gitignore
+!reducible/**
+!rule/*.rule
+!imply.py
+!dist5.py
+!cut6.py
+!imply1_star/**
+!imply2_star/**
+!K1/**
+!K2/**
+!cut6.sh
+!summary.py
+!README.md

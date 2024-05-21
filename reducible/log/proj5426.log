@@ -1,0 +1,29 @@
+[2023-10-05 00:48:35.478] [info] Kempe type: Projective
+[2023-10-05 00:48:35.479] [info] Vertex size: 32, Edge size: 55, Ring size: 14
+[2023-10-05 00:48:37.440] [info] Started D-reducibility check
+[2023-10-05 00:48:37.446] [info] #1: Feasible / Total: 20955 / 199291
+[2023-10-05 00:50:04.789] [info] #2: Feasible / Total: 26375 / 199291
+[2023-10-05 00:50:23.583] [info] #3: Feasible / Total: 29346 / 199291
+[2023-10-05 00:50:34.758] [info] #4: Feasible / Total: 30846 / 199291
+[2023-10-05 00:50:44.251] [info] #5: Feasible / Total: 31764 / 199291
+[2023-10-05 00:50:51.914] [info] #6: Feasible / Total: 32578 / 199291
+[2023-10-05 00:51:03.736] [info] #7: Feasible / Total: 33546 / 199291
+[2023-10-05 00:51:15.019] [info] #8: Feasible / Total: 34817 / 199291
+[2023-10-05 00:51:26.735] [info] #9: Feasible / Total: 36463 / 199291
+[2023-10-05 00:51:40.466] [info] #10: Feasible / Total: 38815 / 199291
+[2023-10-05 00:51:56.093] [info] #11: Feasible / Total: 42071 / 199291
+[2023-10-05 00:52:19.568] [info] #12: Feasible / Total: 46634 / 199291
+[2023-10-05 00:52:53.744] [info] #13: Feasible / Total: 53761 / 199291
+[2023-10-05 00:53:35.816] [info] #14: Feasible / Total: 64830 / 199291
+[2023-10-05 00:54:34.545] [info] #15: Feasible / Total: 82443 / 199291
+[2023-10-05 00:55:44.856] [info] #16: Feasible / Total: 110997 / 199291
+[2023-10-05 00:56:42.499] [info] #17: Feasible / Total: 144732 / 199291
+[2023-10-05 00:56:49.536] [info] #18: Feasible / Total: 151608 / 199291
+[2023-10-05 00:56:50.510] [info] #19: Feasible / Total: 151610 / 199291
+[2023-10-05 00:56:51.467] [info] #19: Feasible / Total: 151610 / 199291
+[2023-10-05 00:56:51.467] [info] Graph is not D-reducible.
+[2023-10-05 00:56:51.534] [info] Started C-reducibility check
+[2023-10-05 00:58:35.736] [info] Trying 21129178 possible contractions
+[2023-10-05 00:58:35.737] [info] [0/21129178] Starting contraction of size 1
+[2023-10-05 00:58:38.245] [info] All colors passed! Contracted: 32
+[2023-10-05 00:58:38.245] [info] Graph is C-reducible!

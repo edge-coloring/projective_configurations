@@ -1,0 +1,44 @@
+[2023-09-30 15:10:14.036] [info] Kempe type: Projective
+[2023-09-30 15:10:14.037] [info] Vertex size: 31, Edge size: 53, Ring size: 13
+[2023-09-30 15:10:14.554] [info] Started D-reducibility check
+[2023-09-30 15:10:14.554] [info] #1: Feasible / Total: 10055 / 66430
+[2023-09-30 15:10:25.327] [info] #2: Feasible / Total: 13651 / 66430
+[2023-09-30 15:10:29.070] [info] #3: Feasible / Total: 15262 / 66430
+[2023-09-30 15:10:31.568] [info] #4: Feasible / Total: 16141 / 66430
+[2023-09-30 15:10:33.622] [info] #5: Feasible / Total: 16771 / 66430
+[2023-09-30 15:10:35.993] [info] #6: Feasible / Total: 17351 / 66430
+[2023-09-30 15:10:37.876] [info] #7: Feasible / Total: 17928 / 66430
+[2023-09-30 15:10:39.313] [info] #8: Feasible / Total: 18487 / 66430
+[2023-09-30 15:10:40.711] [info] #9: Feasible / Total: 18955 / 66430
+[2023-09-30 15:10:41.982] [info] #10: Feasible / Total: 19372 / 66430
+[2023-09-30 15:10:43.261] [info] #11: Feasible / Total: 19685 / 66430
+[2023-09-30 15:10:44.432] [info] #12: Feasible / Total: 19925 / 66430
+[2023-09-30 15:10:45.360] [info] #13: Feasible / Total: 20137 / 66430
+[2023-09-30 15:10:46.324] [info] #14: Feasible / Total: 20367 / 66430
+[2023-09-30 15:10:47.223] [info] #15: Feasible / Total: 20524 / 66430
+[2023-09-30 15:10:48.077] [info] #16: Feasible / Total: 20693 / 66430
+[2023-09-30 15:10:48.998] [info] #17: Feasible / Total: 20927 / 66430
+[2023-09-30 15:10:50.054] [info] #18: Feasible / Total: 21252 / 66430
+[2023-09-30 15:10:51.026] [info] #19: Feasible / Total: 21562 / 66430
+[2023-09-30 15:10:51.916] [info] #20: Feasible / Total: 21870 / 66430
+[2023-09-30 15:10:52.942] [info] #21: Feasible / Total: 22306 / 66430
+[2023-09-30 15:10:54.131] [info] #22: Feasible / Total: 23005 / 66430
+[2023-09-30 15:10:55.268] [info] #23: Feasible / Total: 23670 / 66430
+[2023-09-30 15:10:56.125] [info] #24: Feasible / Total: 23998 / 66430
+[2023-09-30 15:10:56.827] [info] #25: Feasible / Total: 24133 / 66430
+[2023-09-30 15:10:57.462] [info] #26: Feasible / Total: 24237 / 66430
+[2023-09-30 15:10:58.102] [info] #27: Feasible / Total: 24252 / 66430
+[2023-09-30 15:10:58.738] [info] #28: Feasible / Total: 24258 / 66430
+[2023-09-30 15:10:59.317] [info] #29: Feasible / Total: 24261 / 66430
+[2023-09-30 15:10:59.903] [info] #29: Feasible / Total: 24261 / 66430
+[2023-09-30 15:10:59.903] [info] Graph is not D-reducible.
+[2023-09-30 15:10:59.913] [info] Started C-reducibility check
+[2023-09-30 15:11:41.296] [info] Trying 1202752 possible contractions
+[2023-09-30 15:11:41.298] [info] [0/1202752] Starting contraction of size 1
+[2023-09-30 15:11:53.481] [info] [40/1202752] Starting contraction of size 2
+[2023-09-30 15:14:28.976] [info] [753/1202752] Starting contraction of size 3
+[2023-09-30 15:30:26.337] [info] [8255/1202752] Starting contraction of size 4
+[2023-09-30 17:05:54.026] [info] [60329/1202752] Starting contraction of size 5
+[2023-09-30 23:20:14.386] [info] [313129/1202752] Starting contraction of size 6
+[2023-10-01 05:02:22.456] [info] All colors passed! Contracted: 26, 31, 33, 34, 44, 51
+[2023-10-01 05:02:22.456] [info] Graph is C-reducible!

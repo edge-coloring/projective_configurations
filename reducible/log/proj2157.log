@@ -1,0 +1,30 @@
+[2023-10-05 16:00:24.423] [info] Kempe type: Projective
+[2023-10-05 16:00:24.423] [info] Vertex size: 40, Edge size: 68, Ring size: 16
+[2023-10-05 16:00:35.045] [info] Started D-reducibility check
+[2023-10-05 16:00:35.045] [info] #1: Feasible / Total: 161720 / 1793614
+[2023-10-05 16:50:37.598] [info] #2: Feasible / Total: 254851 / 1793614
+[2023-10-05 17:12:48.768] [info] #3: Feasible / Total: 323708 / 1793614
+[2023-10-05 17:34:58.675] [info] #4: Feasible / Total: 397838 / 1793614
+[2023-10-05 17:58:46.218] [info] #5: Feasible / Total: 495807 / 1793614
+[2023-10-05 18:26:53.529] [info] #6: Feasible / Total: 635811 / 1793614
+[2023-10-05 18:55:35.104] [info] #7: Feasible / Total: 811733 / 1793614
+[2023-10-05 19:14:24.143] [info] #8: Feasible / Total: 954518 / 1793614
+[2023-10-05 19:19:58.100] [info] #9: Feasible / Total: 1001468 / 1793614
+[2023-10-05 19:21:49.363] [info] #10: Feasible / Total: 1009085 / 1793614
+[2023-10-05 19:23:04.727] [info] #11: Feasible / Total: 1012899 / 1793614
+[2023-10-05 19:24:03.899] [info] #12: Feasible / Total: 1015827 / 1793614
+[2023-10-05 19:24:46.057] [info] #13: Feasible / Total: 1017993 / 1793614
+[2023-10-05 19:25:31.732] [info] #14: Feasible / Total: 1021164 / 1793614
+[2023-10-05 19:26:04.013] [info] #15: Feasible / Total: 1022990 / 1793614
+[2023-10-05 19:26:28.686] [info] #16: Feasible / Total: 1023609 / 1793614
+[2023-10-05 19:26:50.760] [info] #17: Feasible / Total: 1023752 / 1793614
+[2023-10-05 19:27:12.218] [info] #18: Feasible / Total: 1023758 / 1793614
+[2023-10-05 19:27:33.701] [info] #18: Feasible / Total: 1023758 / 1793614
+[2023-10-05 19:27:33.701] [info] Graph is not D-reducible.
+[2023-10-05 19:27:34.199] [info] Started C-reducibility check
+[2023-10-05 20:56:39.340] [info] Trying 127036624 possible contractions
+[2023-10-05 20:56:39.340] [info] [0/127036624] Starting contraction of size 1
+[2023-10-05 21:03:58.313] [info] [52/127036624] Starting contraction of size 2
+[2023-10-05 23:25:25.193] [info] [1290/127036624] Starting contraction of size 3
+[2023-10-06 01:13:34.173] [info] All colors passed! Contracted: 17, 34, 64
+[2023-10-06 01:13:34.174] [info] Graph is C-reducible!

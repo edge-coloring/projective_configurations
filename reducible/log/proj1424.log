@@ -1,0 +1,32 @@
+[2023-09-30 23:35:48.145] [info] Kempe type: Projective
+[2023-09-30 23:35:48.145] [info] Vertex size: 32, Edge size: 55, Ring size: 14
+[2023-09-30 23:35:50.660] [info] Started D-reducibility check
+[2023-09-30 23:35:50.660] [info] #1: Feasible / Total: 21679 / 199291
+[2023-09-30 23:37:01.583] [info] #2: Feasible / Total: 28300 / 199291
+[2023-09-30 23:37:28.024] [info] #3: Feasible / Total: 32075 / 199291
+[2023-09-30 23:37:41.765] [info] #4: Feasible / Total: 34413 / 199291
+[2023-09-30 23:37:52.774] [info] #5: Feasible / Total: 36313 / 199291
+[2023-09-30 23:38:01.219] [info] #6: Feasible / Total: 38154 / 199291
+[2023-09-30 23:38:14.380] [info] #7: Feasible / Total: 40448 / 199291
+[2023-09-30 23:38:29.165] [info] #8: Feasible / Total: 43892 / 199291
+[2023-09-30 23:38:50.022] [info] #9: Feasible / Total: 49146 / 199291
+[2023-09-30 23:39:16.301] [info] #10: Feasible / Total: 57601 / 199291
+[2023-09-30 23:39:58.541] [info] #11: Feasible / Total: 70606 / 199291
+[2023-09-30 23:40:46.807] [info] #12: Feasible / Total: 87513 / 199291
+[2023-09-30 23:41:34.507] [info] #13: Feasible / Total: 109337 / 199291
+[2023-09-30 23:42:04.219] [info] #14: Feasible / Total: 136974 / 199291
+[2023-09-30 23:42:22.047] [info] #15: Feasible / Total: 155995 / 199291
+[2023-09-30 23:42:27.981] [info] #16: Feasible / Total: 160386 / 199291
+[2023-09-30 23:42:28.743] [info] #17: Feasible / Total: 160845 / 199291
+[2023-09-30 23:42:29.125] [info] #18: Feasible / Total: 160857 / 199291
+[2023-09-30 23:42:29.498] [info] #19: Feasible / Total: 160860 / 199291
+[2023-09-30 23:42:30.008] [info] #20: Feasible / Total: 160862 / 199291
+[2023-09-30 23:42:30.514] [info] #20: Feasible / Total: 160862 / 199291
+[2023-09-30 23:42:30.514] [info] Graph is not D-reducible.
+[2023-09-30 23:42:30.543] [info] Started C-reducibility check
+[2023-09-30 23:43:18.283] [info] Trying 1460456 possible contractions
+[2023-09-30 23:43:18.283] [info] [0/1460456] Starting contraction of size 1
+[2023-09-30 23:43:47.915] [info] [41/1460456] Starting contraction of size 2
+[2023-09-30 23:50:19.562] [info] [793/1460456] Starting contraction of size 3
+[2023-10-01 00:00:34.927] [info] All colors passed! Contracted: 27, 29, 53
+[2023-10-01 00:00:34.927] [info] Graph is C-reducible!

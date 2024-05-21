@@ -1,0 +1,29 @@
+[2023-09-30 23:35:48.131] [info] Kempe type: Projective
+[2023-09-30 23:35:48.131] [info] Vertex size: 29, Edge size: 50, Ring size: 13
+[2023-09-30 23:35:48.645] [info] Started D-reducibility check
+[2023-09-30 23:35:48.645] [info] #1: Feasible / Total: 8530 / 66430
+[2023-09-30 23:36:04.608] [info] #2: Feasible / Total: 12242 / 66430
+[2023-09-30 23:36:11.607] [info] #3: Feasible / Total: 14509 / 66430
+[2023-09-30 23:36:16.344] [info] #4: Feasible / Total: 16304 / 66430
+[2023-09-30 23:36:20.281] [info] #5: Feasible / Total: 17735 / 66430
+[2023-09-30 23:36:23.899] [info] #6: Feasible / Total: 19182 / 66430
+[2023-09-30 23:36:27.488] [info] #7: Feasible / Total: 20817 / 66430
+[2023-09-30 23:36:31.060] [info] #8: Feasible / Total: 22418 / 66430
+[2023-09-30 23:36:35.154] [info] #9: Feasible / Total: 24498 / 66430
+[2023-09-30 23:36:39.880] [info] #10: Feasible / Total: 27057 / 66430
+[2023-09-30 23:36:44.841] [info] #11: Feasible / Total: 30730 / 66430
+[2023-09-30 23:36:50.196] [info] #12: Feasible / Total: 36149 / 66430
+[2023-09-30 23:36:55.062] [info] #13: Feasible / Total: 41533 / 66430
+[2023-09-30 23:36:57.192] [info] #14: Feasible / Total: 44219 / 66430
+[2023-09-30 23:36:57.743] [info] #15: Feasible / Total: 44419 / 66430
+[2023-09-30 23:36:58.061] [info] #16: Feasible / Total: 44421 / 66430
+[2023-09-30 23:36:58.361] [info] #16: Feasible / Total: 44421 / 66430
+[2023-09-30 23:36:58.370] [info] Graph is not D-reducible.
+[2023-09-30 23:36:58.389] [info] Started C-reducibility check
+[2023-09-30 23:37:12.129] [info] Trying 680647 possible contractions
+[2023-09-30 23:37:12.129] [info] [0/680647] Starting contraction of size 1
+[2023-09-30 23:37:18.474] [info] [37/680647] Starting contraction of size 2
+[2023-09-30 23:38:42.561] [info] [642/680647] Starting contraction of size 3
+[2023-09-30 23:46:32.374] [info] [6427/680647] Starting contraction of size 4
+[2023-09-30 23:47:47.505] [info] All colors passed! Contracted: 21, 33, 35, 48
+[2023-09-30 23:47:47.505] [info] Graph is C-reducible!
