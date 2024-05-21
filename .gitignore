@@ -7,6 +7,7 @@
 !reducible/**
 !rule/*.rule
 !imply.py
+!imply.sh
 !dist5.py
 !cut6.py
 !imply1_star/**
